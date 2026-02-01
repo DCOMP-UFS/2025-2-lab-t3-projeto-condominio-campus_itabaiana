@@ -20,15 +20,17 @@ http://52.202.179.230/
 ````
 ---
 
-## 🌐 Laboratório 02
+## 🌐 Laboratório 02 - GEADAS
+Grupo de Estudo e Pesquisa em Alfabetização, Discurso e Aprendizagens
 
-- 👨‍💻 **Técnico responsável:** 
+- 👨‍💻 **Técnico responsável:** João Andryel Santos Menezes
 
 ### 📌 Descrição técnica
+Planejamento da infraestrtura de redes do **Grupo de Estudo e Pesquisa em Alfabetização, Discurso e Aprendizagens (GEADAS)** do Campus de Itabaiana, utilizando uma arquitetura segmentada para organizar servidores, estações de pesquisa e dispositivos IoT. Transformando o laboratório em um ambiente tecnológico moderno, facilitando a análise de discursos e o desenvolvimento de novas metodologias de aprendizagem.
 
 ### 🌍 IP do site no AWS
 ```markdown
-http://0.0.0.0/
+http://44.217.102.94/
 ````
 
 ---
