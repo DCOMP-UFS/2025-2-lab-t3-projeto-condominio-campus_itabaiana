@@ -18,3 +18,41 @@ O ambiente utiliza **switches de camada 2 e camada 3** para comutação e roteam
 ```markdown
 http://52.202.179.230/
 ````
+---
+
+## 🌐 Laboratório 02
+
+- 👨‍💻 **Técnico responsável:** 
+
+### 📌 Descrição técnica
+
+### 🌍 IP do site no AWS
+```markdown
+http://0.0.0.0/
+````
+
+---
+
+## 🌐 Laboratório 03
+
+- 👨‍💻 **Técnico responsável:** 
+
+### 📌 Descrição técnica
+
+### 🌍 IP do site no AWS
+```markdown
+http://0.0.0.0/
+````
+
+---
+
+## 🌐 Laboratório 04
+
+- 👨‍💻 **Técnico responsável:** 
+
+### 📌 Descrição técnica
+
+### 🌍 IP do site no AWS
+```markdown
+http://0.0.0.0/
+````
