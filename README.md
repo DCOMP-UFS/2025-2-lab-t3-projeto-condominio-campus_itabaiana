@@ -50,13 +50,18 @@ http://0.0.0.0/
 
 ---
 
-## 🌐 Laboratório 04
+## 🌐 Laboratório 04 - GEES
+**Grupo de Estudos em Educação Superior**
 
-- 👨‍💻 **Técnico responsável:** 
+- 👨‍💻 **Técnico responsável:** Maria Rita Melo de Souza
 
 ### 📌 Descrição técnica
+O laboratório do GEES possui infraestrutura de rede dimensionada para atender às atividades de pesquisa, armazenamento de dados educacionais, produção científica e colaboração acadêmica. Foi projetado com uma infraestrutura de rede enxuta, segura e escalável, adequada às demandas de pesquisa em Educação e preparada para integração ao modelo de condomínio de laboratórios.
+
+A adesão ao condomínio amplia a capacidade tecnológica do laboratório ao permitir acesso a recursos compartilhados como cluster de processamento, armazenamento centralizado e autenticação unificada. Essa integração reduz custos individuais, aumenta a disponibilidade dos serviços e viabiliza escalabilidade para projetos de maior complexidade.
+
 
 ### 🌍 IP do site no AWS
 ```markdown
-http://0.0.0.0/
+http://52.204.130.230/
 ````
