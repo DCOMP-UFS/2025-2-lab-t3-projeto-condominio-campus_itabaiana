@@ -35,11 +35,13 @@ http://44.217.102.94/
 
 ---
 
-## 🌐 Laboratório 03
+## 🌐 Laboratório 03 - GPEA
+**Grupo de Estudo e Pesquisa em Educação Ambiental de Sergipe**
 
-- 👨‍💻 **Técnico responsável:** 
+- 👨‍💻 **Técnico responsável:** Paloma dos Santos
 
 ### 📌 Descrição técnica
+A proposta foi desenvolvida para atender às necessidades do **Grupo de Estudo e Pesquisa em Educação Ambiental de Sergipe (GPEA)**, garantindo organização lógica da rede, segurança, conectividade e possibilidade de expansão. A infraestrutura é centralizada no Switch de camada 3, responsável pelo roteamento inter-VLAN e pela interligação dos segmentos da rede. A segmentação lógica é realizada por meio de VLANs, separando o tráfego conforme o perfil de uso. O acesso à Internet é realizado pelo Gateway com proteção garantida pelo Firewall responsável pelo controle e filtragem de tráfego. A rede utiliza endereçamento IPv4 e IPv6, seguindo boas práticas atuais de redes de computadores. Essa arquitetura possibilita segurança, desempenho e escalabilidade, além de permitir a integração ao modelo de condomínio de laboratórios, oferecendo suporte adequado às atividades de pesquisa, ensino e extensão do GPEA.
 
 ### 🌍 IP do site no AWS
 ```markdown
