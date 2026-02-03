@@ -63,5 +63,5 @@ A adesão ao condomínio amplia a capacidade tecnológica do laboratório ao per
 
 ### 🌍 IP do site no AWS
 ```markdown
-http://52.204.130.230/
+http://34.206.239.171/
 ````
