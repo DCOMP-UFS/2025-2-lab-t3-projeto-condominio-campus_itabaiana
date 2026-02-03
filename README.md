@@ -45,7 +45,7 @@ A proposta foi desenvolvida para atender às necessidades do **Grupo de Estudo e
 
 ### 🌍 IP do site no AWS
 ```markdown
-http://98.93.165.148/
+http://54.163.11.181/
 ````
 
 ---
